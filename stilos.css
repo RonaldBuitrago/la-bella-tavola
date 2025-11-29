@@ -1,0 +1,4615 @@
+/* Restaurante Web Prototipo */
+
+position: relative;
+width: 1536px;
+height: 4136px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* App */
+
+position: absolute;
+width: 1536px;
+height: 4136px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Main Content */
+
+position: absolute;
+width: 1530px;
+height: 3791px;
+left: 0px;
+top: -3px;
+
+border-radius: 0px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 32px;
+gap: 64px;
+
+position: absolute;
+width: 1280px;
+height: 1151px;
+left: 128px;
+top: 948px;
+
+background: #F9FAFB;
+border-radius: 0px;
+
+
+/* Container */
+
+width: 1216px;
+height: 88px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 2 */
+
+position: absolute;
+width: 1216px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Nuestro Menú */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 558.11px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #E17100;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 672px;
+height: 48px;
+left: 272px;
+top: 40px;
+
+border-radius: 0px;
+
+
+/* Descubre nuestra selección de platos elaborados co */
+
+position: absolute;
+width: 634px;
+height: 48px;
+left: 19.11px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+width: 1216px;
+height: 999px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pasta al tartufo */
+
+position: absolute;
+width: 382px;
+height: 678px;
+left: 0px;
+top: -264px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 182.34px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 125.78px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Pasta al Tartufo */
+
+position: absolute;
+width: 125px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 25.88px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Pasta fresca con salsa de trufa negra y parmesano */
+
+position: absolute;
+width: 268px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 89.91px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Entrantes */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 416px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Filete de Res Premium */
+
+position: absolute;
+width: 400px;
+height: 287px;
+left: -11px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 127.16px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 180.97px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Filete de Res Premium */
+
+position: absolute;
+width: 184px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 25.88px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Filete de res 300g con guarnición de vegetales asa */
+
+position: absolute;
+width: 328px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 99.3px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Principales */
+
+position: absolute;
+width: 79px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 832px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ensalada Mediterránea */
+
+position: absolute;
+width: 477px;
+height: 287px;
+left: -47px;
+top: -1px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 121.97px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 186.16px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ensalada Mediterránea */
+
+position: absolute;
+width: 187px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 25.88px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Mezcla fresca de lechugas, queso feta, aceitunas y */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 89.91px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Entrantes */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 0px;
+top: 515.5px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tarta de chocolate */
+
+position: absolute;
+width: 508px;
+height: 286px;
+left: -83px;
+top: 0.5px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 164.09px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 152.66px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tarta de Chocolate */
+
+position: absolute;
+width: 152px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 17.25px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Deliciosa tarta de chocolate belga con helado de v */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 74.67px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Postres */
+
+position: absolute;
+width: 55px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 416px;
+top: 515.5px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Risotto de Hongos */
+
+position: absolute;
+width: 429px;
+height: 286px;
+left: -23px;
+top: 0.5px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 155.91px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 152.22px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Risotto de Hongos */
+
+position: absolute;
+width: 149px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 25.88px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Arroz arborio con hongos portobello y vino blanco */
+
+position: absolute;
+width: 307px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 99.3px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Principales */
+
+position: absolute;
+width: 79px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 384px;
+height: 483.5px;
+left: 832px;
+top: 515.5px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* ImageWithFallback */
+
+width: 382px;
+height: 286.5px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* image 1 */
+
+position: absolute;
+width: 382px;
+height: 286px;
+left: 0px;
+top: 0.5px;
+
+background: url(image.png);
+
+
+/* CardContent */
+
+width: 382px;
+height: 171px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* MenuSection */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 175.34px;
+
+position: absolute;
+width: 334px;
+height: 27px;
+left: 24px;
+top: 24px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 132.78px;
+height: 27px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tabla de Quesos */
+
+position: absolute;
+width: 136px;
+height: 27px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Text */
+
+width: 25.88px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* $0 */
+
+position: absolute;
+width: 18px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 334px;
+height: 48px;
+left: 24px;
+top: 59px;
+
+border-radius: 0px;
+
+
+/* Selección de quesos artesanales con mermeladas y f */
+
+position: absolute;
+width: 256px;
+height: 48px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+
+color: #4A5565;
+
+
+
+/* MenuSection */
+
+position: absolute;
+width: 89.91px;
+height: 32px;
+left: 24px;
+top: 115px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Entrantes */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: 12px;
+top: 2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #973C00;
+
+
+
+/* About */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 80px 160px 0px;
+gap: 64px;
+
+position: absolute;
+width: 1536px;
+height: 812px;
+left: 0px;
+top: 2179px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* Container */
+
+width: 1216px;
+height: 64px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 2 */
+
+position: absolute;
+width: 1216px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Sobre Nosotros */
+
+position: absolute;
+width: 112px;
+height: 24px;
+left: 551.88px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #E17100;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 672px;
+height: 24px;
+left: 272px;
+top: 40px;
+
+border-radius: 0px;
+
+
+/* Más de 20 años creando experiencias gastronómicas  */
+
+position: absolute;
+width: 472px;
+height: 24px;
+left: 99.59px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+width: 1216px;
+height: 188px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+position: absolute;
+width: 373.33px;
+height: 188px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Container */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 154.66px;
+top: 0px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Icon */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 16px;
+
+border-radius: 0px;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.49%;
+right: 12.48%;
+top: 12.48%;
+bottom: 12.5%;
+
+border: 2.66667px solid #E17100;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 70.83%;
+bottom: 29.17%;
+
+border: 2.66667px solid #E17100;
+
+
+/* Heading 3 */
+
+position: absolute;
+width: 373.33px;
+height: 24px;
+left: 0px;
+top: 80px;
+
+border-radius: 0px;
+
+
+/* Chefs Expertos */
+
+position: absolute;
+width: 110px;
+height: 24px;
+left: 131.72px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 373.33px;
+height: 72px;
+left: 0px;
+top: 116px;
+
+border-radius: 0px;
+
+
+/* Nuestro equipo de chefs con experiencia internacio */
+
+position: absolute;
+width: 338px;
+height: 72px;
+left: 18.06px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+position: absolute;
+width: 373.33px;
+height: 188px;
+left: 421.33px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Container */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 154.66px;
+top: 0px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Icon */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 16px;
+
+border-radius: 0px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.6%;
+bottom: 12.5%;
+
+border: 2.66667px solid #E17100;
+
+
+/* Heading 3 */
+
+position: absolute;
+width: 373.33px;
+height: 24px;
+left: 0px;
+top: 80px;
+
+border-radius: 0px;
+
+
+/* Pasión por la Calidad */
+
+position: absolute;
+width: 153px;
+height: 24px;
+left: 110.69px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 373.33px;
+height: 72px;
+left: 0px;
+top: 116px;
+
+border-radius: 0px;
+
+
+/* Seleccionamos cuidadosamente cada ingrediente, tra */
+
+position: absolute;
+width: 360px;
+height: 72px;
+left: 6.84px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+position: absolute;
+width: 373.34px;
+height: 188px;
+left: 842.66px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Container */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 154.67px;
+top: 0px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+
+/* Icon */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 16px;
+top: 16px;
+
+border-radius: 0px;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.18%;
+right: 29.17%;
+top: 53.71%;
+bottom: 8.34%;
+
+border: 2.66667px solid #E17100;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 8.33%;
+bottom: 41.67%;
+
+border: 2.66667px solid #E17100;
+
+
+/* Heading 3 */
+
+position: absolute;
+width: 373.34px;
+height: 24px;
+left: 0px;
+top: 80px;
+
+border-radius: 0px;
+
+
+/* Reconocimiento */
+
+position: absolute;
+width: 115px;
+height: 24px;
+left: 129.77px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 373.34px;
+height: 48px;
+left: 0px;
+top: 116px;
+
+border-radius: 0px;
+
+
+/* Galardonados con múltiples premios gastronómicos q */
+
+position: absolute;
+width: 368px;
+height: 72px;
+left: 2.88px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 48px 224px 0px;
+
+width: 1216px;
+height: 272px;
+
+background: #FFFBEB;
+border-radius: 10px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+height: 176px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+width: 768px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuestra Historia */
+
+position: absolute;
+width: 115px;
+height: 24px;
+left: 326.95px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+width: 768px;
+height: 72px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* La Bella Tavola nació de la pasión por compartir l */
+
+position: absolute;
+width: 768px;
+height: 72px;
+left: 0.27px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #364153;
+
+
+
+/* Paragraph */
+
+width: 768px;
+height: 48px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cada plato cuenta una historia, cada ingrediente e */
+
+position: absolute;
+width: 752px;
+height: 48px;
+left: 8.22px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* o 150% */
+text-align: center;
+
+color: #364153;
+
+
+
+/* Contact */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 32px;
+gap: 64px;
+
+position: absolute;
+width: 1280px;
+height: 640px;
+left: 128px;
+top: 3071px;
+
+background: #F9FAFB;
+border-radius: 0px;
+
+
+/* Container */
+
+width: 1216px;
+height: 64px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 2 */
+
+position: absolute;
+width: 1216px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Contacto y Reservas */
+
+position: absolute;
+width: 149px;
+height: 24px;
+left: 534.31px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #E17100;
+
+
+
+/* Paragraph */
+
+position: absolute;
+width: 672px;
+height: 24px;
+left: 272px;
+top: 40px;
+
+border-radius: 0px;
+
+
+/* Estamos aquí para hacer tu experiencia inolvidable */
+
+position: absolute;
+width: 364px;
+height: 24px;
+left: 153.94px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #4A5565;
+
+
+
+/* Container */
+
+width: 1216px;
+height: 512px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 584px;
+height: 352px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 584px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Información de Contacto */
+
+position: absolute;
+width: 175px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 584px;
+height: 304px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 584px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 48px;
+height: 48px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 24px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #E17100;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 29.17%;
+bottom: 45.83%;
+
+border: 2px solid #E17100;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 292.58px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 4 */
+
+width: 292.58px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dirección */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+width: 292.58px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Calle Principal 123, 28001 Cali - Colombia */
+
+position: absolute;
+width: 301px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #4A5565;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 584px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 48px;
+height: 48px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 24px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #E17100;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 118.97px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 4 */
+
+width: 118.97px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Teléfono */
+
+position: absolute;
+width: 61px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+width: 118.97px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* +57 912 345 678 */
+
+position: absolute;
+width: 121px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #4A5565;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 584px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 48px;
+height: 48px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 24px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 29.17%;
+bottom: 45.84%;
+
+border: 2px solid #E17100;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #E17100;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 164.91px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 4 */
+
+width: 164.91px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email */
+
+position: absolute;
+width: 41px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+width: 164.91px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* info@labellatavola.com */
+
+position: absolute;
+width: 166px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #4A5565;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 584px;
+height: 76px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 48px;
+height: 48px;
+
+background: #FEF3C6;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 24px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 33.33%;
+top: 25%;
+bottom: 41.67%;
+
+border: 2px solid #E17100;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #E17100;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 233.2px;
+height: 76px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 4 */
+
+width: 233.2px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Horario */
+
+position: absolute;
+width: 53px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Paragraph */
+
+width: 233.2px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lunes - Viernes: 13:00 - 23:00 */
+
+position: absolute;
+width: 216px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #4A5565;
+
+
+
+/* Paragraph */
+
+width: 233.2px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Sábado - Domingo: 12:00 - 00:00 */
+
+position: absolute;
+width: 237px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #4A5565;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px 32px 0px;
+gap: 24px;
+
+position: absolute;
+width: 584px;
+height: 512px;
+left: 632px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+
+
+/* Heading 3 */
+
+width: 520px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Envíanos un Mensaje */
+
+position: absolute;
+width: 154px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #101828;
+
+
+
+/* Form */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 520px;
+height: 400px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 520px;
+height: 68px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 520px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nombre */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 12px;
+
+width: 520px;
+height: 36px;
+
+background: #F3F3F5;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tu nombre */
+
+width: 68px;
+height: 16px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* idéntico a la altura del cuadro */
+
+color: #717182;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 520px;
+height: 68px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 520px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email */
+
+position: absolute;
+width: 41px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 12px;
+
+width: 520px;
+height: 36px;
+
+background: #F3F3F5;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* tu@email.com */
+
+width: 90px;
+height: 16px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* idéntico a la altura del cuadro */
+
+color: #717182;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 520px;
+height: 68px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 520px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Teléfono */
+
+position: absolute;
+width: 61px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 12px;
+
+width: 520px;
+height: 36px;
+
+background: #F3F3F5;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* +57 123 456 789 */
+
+width: 106px;
+height: 16px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* idéntico a la altura del cuadro */
+
+color: #717182;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 520px;
+height: 96px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 520px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Mensaje */
+
+position: absolute;
+width: 61px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Textarea */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 12px;
+
+width: 520px;
+height: 64px;
+
+background: #F3F3F5;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cuéntanos sobre tu reserva o consulta... */
+
+width: 253px;
+height: 20px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* idéntico a la altura del cuadro o 143% */
+
+color: #717182;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 520px;
+height: 36px;
+
+background: #E17100;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Enviar Mensaje */
+
+width: 488px;
+height: 20px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* idéntico a la altura del cuadro o 143% */
+
+color: #FFFFFF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Hero */
+
+position: absolute;
+width: 1536px;
+height: 868px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+
+
+/* Container */
+
+position: absolute;
+width: 1536px;
+height: 868px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* ImageWithFallback */
+
+position: absolute;
+width: 1536px;
+height: 868px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Container */
+
+position: absolute;
+width: 1536px;
+height: 868px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.5);
+border-radius: 0px;
+
+
+/* Banner principal */
+
+position: absolute;
+width: 1536px;
+height: 1024px;
+left: 0px;
+top: -86px;
+
+background: url(image.png);
+
+
+/* La Bella Tavola */
+
+position: absolute;
+width: 163px;
+height: 24px;
+left: 686px;
+top: 292px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 100% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 16px;
+gap: 24px;
+
+position: absolute;
+width: 642.03px;
+height: 144px;
+left: 447px;
+top: 362px;
+
+border-radius: 0px;
+
+
+/* Paragraph */
+
+width: 610.03px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Una experiencia gastronómica única donde la tradic */
+
+position: absolute;
+width: 616px;
+height: 24px;
+left: -3px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.9);
+
+
+
+/* Container */
+
+width: 610.03px;
+height: 40px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 8px;
+
+position: absolute;
+width: 109.28px;
+height: 40px;
+left: 171.41px;
+top: 0px;
+overflow-y: scroll;
+
+background: #E17100;
+border-radius: 8px;
+
+
+/* Ver Menú */
+
+width: 60px;
+height: 20px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* idéntico a la altura del cuadro o 143% */
+
+color: #FFFFFF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 8px;
+
+position: absolute;
+width: 141.94px;
+height: 40px;
+left: 296.69px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+
+
+/* Reservar Mesa */
+
+width: 95px;
+height: 20px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* idéntico a la altura del cuadro o 143% */
+
+color: #101828;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 15px 82px;
+gap: 32px;
+
+position: absolute;
+width: 1536px;
+height: 272px;
+left: 0px;
+top: 3839px;
+
+background: #101828;
+border-radius: 0px;
+
+
+/* Container */
+
+width: 1372px;
+height: 161px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 384px;
+height: 161px;
+left: 494px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Heading 4 */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Enlaces Rápidos */
+
+position: absolute;
+width: 121px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #FFFFFF;
+
+
+
+/* List */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 384px;
+height: 120px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* List Item */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 37.83px;
+height: 21px;
+left: 0px;
+top: 1px;
+
+border-radius: 0px;
+
+
+/* Inicio */
+
+width: 38px;
+height: 24px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #99A1AF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List Item */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 40.84px;
+height: 21px;
+left: 0px;
+top: 1px;
+
+border-radius: 0px;
+
+
+/* Menú */
+
+width: 41px;
+height: 24px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #99A1AF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List Item */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64.66px;
+height: 21px;
+left: 0px;
+top: 1px;
+
+border-radius: 0px;
+
+
+/* Nosotros */
+
+width: 65px;
+height: 24px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #99A1AF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List Item */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64.09px;
+height: 21px;
+left: 0px;
+top: 1px;
+
+border-radius: 0px;
+
+
+/* Contacto */
+
+width: 65px;
+height: 24px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #99A1AF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 384px;
+height: 161px;
+left: 988px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Heading 4 */
+
+width: 384px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Síguenos */
+
+position: absolute;
+width: 68px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #FFFFFF;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 384px;
+height: 40px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 40px;
+height: 40px;
+
+background: #1E2939;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 25%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.66667px solid #FFFFFF;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 40px;
+height: 40px;
+
+background: #1E2939;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.66667px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.51%;
+right: 33.15%;
+top: 33.15%;
+bottom: 33.51%;
+
+border: 1.66667px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.92%;
+right: 27.04%;
+top: 27.08%;
+bottom: 72.92%;
+
+border: 1.66667px solid #FFFFFF;
+
+
+/* Link */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 40px;
+height: 40px;
+
+background: #1E2939;
+border-radius: 3.35544e+07px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.63%;
+bottom: 12.5%;
+
+border: 1.66667px solid #FFFFFF;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 417.33px;
+height: 161px;
+left: 0px;
+top: 0px;
+
+border-radius: 0px;
+
+
+/* Heading 3 */
+
+width: 417.33px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* La Bella Tavola */
+
+position: absolute;
+width: 109px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #FE9A00;
+
+
+
+/* Paragraph */
+
+width: 417.33px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Experiencias gastronómicas únicas desde 2004 */
+
+position: absolute;
+width: 340px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #99A1AF;
+
+
+
+/* Container */
+
+box-sizing: border-box;
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 33px 0px 0px;
+
+width: 1372px;
+height: 55px;
+
+border-top: 1px solid #1E2939;
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Paragraph */
+
+width: 1372px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* © 2025 La Bella Tavola. Todos los derechos reserva */
+
+position: absolute;
+width: 400px;
+height: 24px;
+left: 492.09px;
+top: -18px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+text-align: center;
+
+color: #99A1AF;
+
+
+
+/* Navigation */
+
+/* Diseño automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 160px;
+
+position: absolute;
+width: 1536px;
+height: 64px;
+left: 0px;
+top: -3px;
+overflow-y: scroll;
+
+background: rgba(255, 255, 255, 0.95);
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1), 0px 1px 2px -1px rgba(0, 0, 0, 0.1);
+border-radius: 0px;
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 662.27px;
+
+width: 1216px;
+height: 64px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 2 */
+
+width: 131.95px;
+height: 30px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* La Bella Tavola */
+
+position: absolute;
+width: 136px;
+height: 30px;
+left: 0px;
+top: -3px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #E17100;
+
+
+
+/* Container */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 421.78px;
+height: 36px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 37.83px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Inicio */
+
+position: absolute;
+width: 38px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Link */
+
+width: 40.84px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Menú */
+
+position: absolute;
+width: 41px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Link */
+
+width: 64.66px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Nosotros */
+
+position: absolute;
+width: 65px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Link */
+
+width: 64.09px;
+height: 24px;
+
+border-radius: 0px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Contacto */
+
+position: absolute;
+width: 65px;
+height: 24px;
+left: 0px;
+top: -2px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idéntico a la altura del cuadro o 150% */
+
+color: #364153;
+
+
+
+/* Button */
+
+/* Diseño automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 86.36px;
+height: 36px;
+
+background: #E17100;
+border-radius: 8px;
+
+/* Dentro del diseño automático */
+flex: none;
+order: 4;
+flex-grow: 1;
+
+
+/* Reservar */
+
+width: 57px;
+height: 20px;
+
+font-family: 'Arimo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* idéntico a la altura del cuadro o 143% */
+
+color: #FFFFFF;
+
+
+/* Dentro del diseño automático */
+flex: none;
+order: 0;
+flex-grow: 0;

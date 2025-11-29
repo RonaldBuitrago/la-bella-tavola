@@ -1,0 +1,224 @@
+:root {
+    --color-primary: #E17100;      
+    --color-dark: #101828;          
+    --color-text-body: #4A5565;     
+    --color-text-light: #99A1AF;    
+    --bg-cream: #FFFBEB;            
+    --bg-badge: #FEF3C6;            
+    --bg-input: #F3F3F5;            
+    --border-radius-card: 14px;     
+    --border-radius-btn: 8px;       
+}
+
+body {
+    font-family: 'Arimo', sans-serif;
+    color: var(--color-text-body);
+    background-color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color-dark);
+    font-weight: 400; 
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.95) !important;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); 
+}
+
+.navbar-brand {
+    color: var(--color-primary) !important;
+    font-size: 20px; 
+}
+
+.nav-link {
+    color: #364153 !important; 
+    font-size: 16px;
+}
+
+.btn-orange {
+    background-color: var(--color-primary);
+    border: 1px solid var(--color-primary);
+    color: #FFFFFF;
+    border-radius: var(--border-radius-btn); 
+    padding: 8px 16px;
+    font-size: 14px;
+}
+
+.btn-orange:hover {
+    background-color: #c56300;
+    color: #FFFFFF;
+}
+
+
+.btn-lg-custom {
+    font-size: 16px;       
+    line-height: 1.5;   
+    font-weight: 500;
+}
+
+.btn-light {
+    color: var(--color-primary);
+    border-color: #FFFFFF;
+}
+
+.btn-light:hover {
+    background-color: #f8f8f8;
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.hero-section h1 {
+    color: #FFFFFF !important;
+}
+
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: var(--border-radius-card); 
+    box-shadow: none;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1); 
+}
+
+.card-img-top {
+    border-top-left-radius: var(--border-radius-card);
+    border-top-right-radius: var(--border-radius-card);
+    height: 250px;
+    object-fit: cover;
+}
+
+.menu-description {
+    min-height: 48px; 
+    -webkit-box-orient: vertical;
+}
+
+
+.text-orange {
+    color: var(--color-primary) !important;
+}
+
+.badge-custom {
+    background-color: var(--bg-badge); 
+    color: #973C00; 
+    font-weight: 400;
+    font-size: 14px;
+    padding: 5px 12px;
+    border-radius: 50px;
+}
+
+.bg-cream-section {
+    background-color: var(--bg-cream); 
+    border-radius: 10px;
+    padding: 48px;
+    margin-top: 30px;
+}
+.video-local {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    border-radius: 10px;
+}
+
+.icon-circle {
+    width: 64px;
+    height: 64px;
+    background-color: var(--bg-badge); 
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 16px auto;
+    color: var(--color-primary);
+    font-size: 24px;
+}
+
+.icon-small {
+    width: 40px;
+    height: 40px;
+    background-color: var(--bg-badge); 
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-primary); 
+}
+
+.custom-contact-icon {
+    width: 20px; 
+    height: 20px;
+    object-fit: contain;
+}
+
+.contact-form-container {
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+    padding: 32px;
+}
+
+.form-control {
+    background-color: var(--bg-input); 
+    border: none;
+    border-radius: 8px; 
+    padding: 10px 12px;
+    color: var(--color-dark);
+}
+
+.form-label {
+    color: #364153; 
+    font-weight: 400;
+}
+
+
+footer {
+    background-color: var(--color-dark); 
+    color: #FFFFFF;
+}
+
+footer h5 {
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+footer a {
+    color: var(--color-text-light); 
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+footer a:hover {
+    color: var(--color-primary);
+}
+
+footer .social-icon {
+    width: 40px;
+    height: 40px;
+    background-color: #1E2939; 
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: white;
+}
+
+footer hr {
+    border-color: #1E2939;
+}
+
+.list-unstyled {
+ color: #FFFFFF !important;
+}

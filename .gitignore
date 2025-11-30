@@ -1,3 +1,2 @@
-# Ignorar carpetas y archivos no necesarios
 node_modules/
 server.js

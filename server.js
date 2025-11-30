@@ -15,4 +15,3 @@ app.listen(port, () => {
     console.log(`Servidor Node.js iniciado en http://localhost:${port}`);
     console.log(`Archivos servidos desde: ${__dirname}`);
 });
-vv
